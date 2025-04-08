@@ -139,5 +139,6 @@ def unblock(domain):
 
 # ---------- Run App ----------
 if __name__ == '__main__':
-    logging.info(f"Running on platform: {platform.system()}")
-    app.run(debug=True)
+    from os import environ
+    port = int(environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
