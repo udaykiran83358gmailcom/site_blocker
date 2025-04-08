@@ -1,0 +1,89 @@
+2025-04-08 14:39:08,917 [INFO] Running on platform: Windows
+2025-04-08 14:39:08,994 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 14:39:08,994 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-08 14:39:08,994 [INFO]  * Restarting with stat
+2025-04-08 14:39:09,501 [INFO] Running on platform: Windows
+2025-04-08 14:39:09,521 [WARNING]  * Debugger is active!
+2025-04-08 14:39:09,523 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:39:55,422 [INFO] Running on platform: Windows
+2025-04-08 14:39:55,455 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 14:39:55,464 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-08 14:39:55,464 [INFO]  * Restarting with stat
+2025-04-08 14:39:56,053 [INFO] Running on platform: Windows
+2025-04-08 14:39:56,079 [WARNING]  * Debugger is active!
+2025-04-08 14:39:56,079 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:41:32,570 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:41:32,648 [INFO]  * Restarting with stat
+2025-04-08 14:41:33,136 [INFO] Running on platform: Windows
+2025-04-08 14:41:33,156 [WARNING]  * Debugger is active!
+2025-04-08 14:41:33,156 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:41:44,123 [INFO] Running on platform: Windows
+2025-04-08 14:41:44,151 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 14:41:44,151 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-08 14:41:44,153 [INFO]  * Restarting with stat
+2025-04-08 14:41:44,488 [INFO] Running on platform: Windows
+2025-04-08 14:41:44,500 [WARNING]  * Debugger is active!
+2025-04-08 14:41:44,500 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:41:56,322 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:41:56,368 [INFO]  * Restarting with stat
+2025-04-08 14:41:56,565 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:41:56,625 [INFO]  * Restarting with stat
+2025-04-08 14:41:56,847 [INFO] Running on platform: Windows
+2025-04-08 14:41:56,871 [WARNING]  * Debugger is active!
+2025-04-08 14:41:56,871 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:41:57,013 [INFO] Running on platform: Windows
+2025-04-08 14:41:57,030 [WARNING]  * Debugger is active!
+2025-04-08 14:41:57,038 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:42:13,489 [INFO] Running on platform: Windows
+2025-04-08 14:42:13,546 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 14:42:13,546 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-08 14:42:13,546 [INFO]  * Restarting with stat
+2025-04-08 14:42:13,977 [INFO] Running on platform: Windows
+2025-04-08 14:42:13,991 [WARNING]  * Debugger is active!
+2025-04-08 14:42:13,994 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:43:08,180 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:43:08,211 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:43:08,241 [INFO]  * Restarting with stat
+2025-04-08 14:43:08,256 [INFO]  * Restarting with stat
+2025-04-08 14:43:08,695 [INFO] Running on platform: Windows
+2025-04-08 14:43:08,702 [INFO] Running on platform: Windows
+2025-04-08 14:43:08,714 [WARNING]  * Debugger is active!
+2025-04-08 14:43:08,722 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:43:08,722 [WARNING]  * Debugger is active!
+2025-04-08 14:43:08,725 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:43:55,322 [INFO] Running on platform: Windows
+2025-04-08 14:43:55,352 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 14:43:55,352 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-08 14:43:55,354 [INFO]  * Restarting with stat
+2025-04-08 14:43:55,773 [INFO] Running on platform: Windows
+2025-04-08 14:43:55,805 [WARNING]  * Debugger is active!
+2025-04-08 14:43:55,807 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:45:12,174 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:45:12,216 [INFO]  * Restarting with stat
+2025-04-08 14:45:12,254 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:45:12,283 [INFO]  * Restarting with stat
+2025-04-08 14:45:12,701 [INFO] Running on platform: Windows
+2025-04-08 14:45:12,718 [WARNING]  * Debugger is active!
+2025-04-08 14:45:12,718 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:45:12,732 [INFO] Running on platform: Windows
+2025-04-08 14:45:12,750 [WARNING]  * Debugger is active!
+2025-04-08 14:45:12,750 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:45:21,531 [INFO] Running on platform: Windows
+2025-04-08 14:45:21,577 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 14:45:21,577 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-08 14:45:21,582 [INFO]  * Restarting with stat
+2025-04-08 14:45:22,006 [INFO] Running on platform: Windows
+2025-04-08 14:45:22,024 [WARNING]  * Debugger is active!
+2025-04-08 14:45:22,032 [INFO]  * Debugger PIN: 817-368-690
+2025-04-08 14:45:38,928 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:45:39,002 [INFO]  * Restarting with stat
+2025-04-08 14:45:39,148 [INFO]  * Detected change in 'D:\\project\\app.py', reloading
+2025-04-08 14:45:39,285 [INFO]  * Restarting with stat
+2025-04-08 14:46:55,985 [INFO]  * Restarting with stat
+2025-04-08 14:47:16,536 [INFO]  * Restarting with stat
